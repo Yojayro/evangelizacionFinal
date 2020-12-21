@@ -1,0 +1,69 @@
+name: flutter_firebase_flutter_2
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter 
+  cupertino_icons: ^0.1.2
+  firebase_auth: ^0.15.4
+  google_sign_in: 
+  flutter_bloc: ^4.0.0
+  equatable:
+  font_awesome_flutter:
+  firebase_core: ^0.4.0
+  firebase_database: ^3.0.9
+
+
+  meta:
+  rxdart:
+  flutter_auth_buttons:
+  http: ^0.12.0+2
+  webfeed: ^0.4.2
+  webview_flutter:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
